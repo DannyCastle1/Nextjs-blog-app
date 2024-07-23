@@ -1,4 +1,4 @@
-# Nextjs-blog-app
+# Blogger
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
