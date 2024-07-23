@@ -89,11 +89,11 @@ You can check if you have the latest versions by running these commands:
 
 ### Installation
 
- Once you're ready to go, navigate in the Command Line Interface to where you saved this repository to use the following commands (split the terminal from the main folder since you have to install the server folder as well):
+ Once you're ready to go, navigate in the Command Line Interface to where you saved this repository to use the following commands:
 
-* cd frontend
+* cd blog-app
   ```sh
-  cd frontend
+  cd blog-app
   ```
 * npm install
   ```sh
@@ -103,40 +103,16 @@ You can check if you have the latest versions by running these commands:
   ```sh
   npm run dev
   ```
-* cd server
-  ```sh
-  cd server
-  ```
-* npm install
-  ```sh
-  npm install
-  ```
-* npm run dev
-  ```sh
-  npm run dev
-  ```
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Yummage allows you to perform CRUD (Create, Read, Update, Delete) and save recipes to your profile once you've signed up. You can also check the explore page to view recipes from a third-party API to try some new dishes.
+Blogger allows you to perform CRUD (Create, Read, Update, Delete) blogs. 
 
 <a href='https://nextjs-blog-app-pi-eight.vercel.app/'>Live Demo</a>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-I want to thank both Puja and Nishat for all the tremendous contributions. Without you, this project wouldn't have been complete.
-
-* Puja R. [Puja](https://github.com/pujaroy280)
-* Nishat F. [Nishat](https://github.com/Nemo080)
-* [Spoonacular](https://spoonacular.com)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
