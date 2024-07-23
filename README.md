@@ -123,7 +123,7 @@ You can check if you have the latest versions by running these commands:
 
 Yummage allows you to perform CRUD (Create, Read, Update, Delete) and save recipes to your profile once you've signed up. You can also check the explore page to view recipes from a third-party API to try some new dishes.
 
-<a href='https://yummage.onrender.com'>Live Demo</a>
+<a href='https://nextjs-blog-app-pi-eight.vercel.app/'>Live Demo</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
